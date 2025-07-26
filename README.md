@@ -1,4 +1,4 @@
-# ConversationRelayWSS
+# ConversationRelay - Cloudflare Workers - Open AI連携
 
 Cloudflare Workers上で動作するWebSocketベースの音声会話リレーサーバー。Twilio ConversationRelay APIとOpenAI GPT-4o-miniを統合し、ホテル向けのAI音声アシスタント機能を提供します。
 
